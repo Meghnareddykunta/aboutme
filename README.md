@@ -24,5 +24,5 @@ This repository contains information about web development pages.
 ## Contributors
 My name is Meghna Reddy Kunta and i am currently pursing my masters in the field of Applied Computer Science from Northwest Missouri State University.
 
-![Dog](dog2.jpeg)
+
 
