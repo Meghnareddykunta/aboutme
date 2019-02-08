@@ -13,7 +13,42 @@ This repository contains information about web development pages.
 1. [tortisegit](https://tortoisegit.org/)-TortoiseGit manages files over time. Files are stored in a local repository. 
 
 ## Languages Required
-1. HTML
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+. HTML
 1. MARKDOWN
 
 ## Recommended Resources
